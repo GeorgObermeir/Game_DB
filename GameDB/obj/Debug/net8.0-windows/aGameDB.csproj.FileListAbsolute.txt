@@ -1,0 +1,238 @@
+C:\Users\der G\source\repos\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.AssemblyReference.cache
+C:\Users\der G\source\repos\GameDB\GameDB\obj\Debug\net8.0-windows\GameDB.UI.GameForm.resources
+C:\Users\der G\source\repos\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.GenerateResource.cache
+C:\Users\der G\source\repos\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\source\repos\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.AssemblyInfoInputs.cache
+C:\Users\der G\source\repos\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.AssemblyInfo.cs
+C:\Users\der G\source\repos\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.CoreCompileInputs.cache
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\aGameDB.exe
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\aGameDB.dll.config
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\aGameDB.deps.json
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\aGameDB.runtimeconfig.json
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\aGameDB.dll
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\aGameDB.pdb
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\DomainModel.dll
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\der G\source\repos\GameDB\GameDB\bin\Debug\net8.0-windows\DomainModel.pdb
+C:\Users\der G\source\repos\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.Up2Date
+C:\Users\der G\source\repos\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.dll
+C:\Users\der G\source\repos\GameDB\GameDB\obj\Debug\net8.0-windows\refint\aGameDB.dll
+C:\Users\der G\source\repos\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.pdb
+C:\Users\der G\source\repos\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.genruntimeconfig.cache
+C:\Users\der G\source\repos\GameDB\GameDB\obj\Debug\net8.0-windows\ref\aGameDB.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\aGameDB.exe
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\aGameDB.dll.config
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\aGameDB.deps.json
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\aGameDB.runtimeconfig.json
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\aGameDB.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\aGameDB.pdb
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\DomainModel.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\bin\Debug\net8.0-windows\DomainModel.pdb
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.AssemblyReference.cache
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\obj\Debug\net8.0-windows\GameDB.UI.GameForm.resources
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.GenerateResource.cache
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.AssemblyInfoInputs.cache
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.AssemblyInfo.cs
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.CoreCompileInputs.cache
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.Up2Date
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\obj\Debug\net8.0-windows\refint\aGameDB.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.pdb
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.genruntimeconfig.cache
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\obj\Debug\net8.0-windows\ref\aGameDB.dll
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.UI.GameOverviewForm.resources
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.UI.GenreSelectionForm.resources
+C:\Users\der G\Desktop\GameDB\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.UI.AddEditGames.resources
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\aGameDB.exe
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\aGameDB.dll.config
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\aGameDB.deps.json
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\aGameDB.runtimeconfig.json
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\aGameDB.dll
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\aGameDB.pdb
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\DomainModel.dll
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\der G\Desktop\GameDB\GameDB\bin\Debug\net8.0-windows\DomainModel.pdb
+C:\Users\der G\Desktop\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.AssemblyReference.cache
+C:\Users\der G\Desktop\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.UI.GameOverviewForm.resources
+C:\Users\der G\Desktop\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.UI.GenreSelectionForm.resources
+C:\Users\der G\Desktop\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.GenerateResource.cache
+C:\Users\der G\Desktop\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\Desktop\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.AssemblyInfoInputs.cache
+C:\Users\der G\Desktop\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.AssemblyInfo.cs
+C:\Users\der G\Desktop\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.CoreCompileInputs.cache
+C:\Users\der G\Desktop\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.Up2Date
+C:\Users\der G\Desktop\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.dll
+C:\Users\der G\Desktop\GameDB\GameDB\obj\Debug\net8.0-windows\refint\aGameDB.dll
+C:\Users\der G\Desktop\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.pdb
+C:\Users\der G\Desktop\GameDB\GameDB\obj\Debug\net8.0-windows\aGameDB.genruntimeconfig.cache
+C:\Users\der G\Desktop\GameDB\GameDB\obj\Debug\net8.0-windows\ref\aGameDB.dll
+C:\Users\der G\Desktop\GameDB\GameDB\obj\Debug\net8.0-windows\GameDB.UI.AddEditGames.resources
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\aGameDB.exe
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\aGameDB.dll.config
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\aGameDB.deps.json
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\aGameDB.runtimeconfig.json
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\aGameDB.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\aGameDB.pdb
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\DomainModel.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\DomainModel.pdb
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.AssemblyReference.cache
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\GameDB.UI.AddEditGames.resources
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.UI.GameOverviewForm.resources
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.UI.GenreSelectionForm.resources
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.GenerateResource.cache
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.AssemblyInfoInputs.cache
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.AssemblyInfo.cs
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.CoreCompileInputs.cache
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.Up2Date
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\refint\aGameDB.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.pdb
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.genruntimeconfig.cache
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\ref\aGameDB.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.UI.StoreSelectionForm.resources
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\aGameDB.exe
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\aGameDB.dll.config
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\aGameDB.deps.json
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\aGameDB.runtimeconfig.json
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\aGameDB.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\aGameDB.pdb
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\DomainModel.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\bin\Debug\net8.0-windows\DomainModel.pdb
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.AssemblyReference.cache
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\GameDB.UI.AddEditGamesForm.resources
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.UI.GameOverviewForm.resources
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.UI.GenreSelectionForm.resources
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aMirrorGameDB.UI.PlattformSelectionForm.resources
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.UI.StoreSelectionForm.resources
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.GenerateResource.cache
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.AssemblyInfoInputs.cache
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.AssemblyInfo.cs
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.CoreCompileInputs.cache
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.Up2Date
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\refint\aGameDB.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.pdb
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\aGameDB.genruntimeconfig.cache
+C:\Users\der G\Desktop\game\Neuer Ordner\GameDB\obj\Debug\net8.0-windows\ref\aGameDB.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\aGameDB.exe
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\aGameDB.dll.config
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\aGameDB.deps.json
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\aGameDB.runtimeconfig.json
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\aGameDB.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\aGameDB.pdb
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\DomainModel.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\der G\Desktop\game\Game_DB\GameDB\bin\Debug\net8.0-windows\DomainModel.pdb
+C:\Users\der G\Desktop\game\Game_DB\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.AssemblyReference.cache
+C:\Users\der G\Desktop\game\Game_DB\GameDB\obj\Debug\net8.0-windows\GameDB.UI.AddEditGamesForm.resources
+C:\Users\der G\Desktop\game\Game_DB\GameDB\obj\Debug\net8.0-windows\aGameDB.UI.GameOverviewForm.resources
+C:\Users\der G\Desktop\game\Game_DB\GameDB\obj\Debug\net8.0-windows\aGameDB.UI.GenreSelectionForm.resources
+C:\Users\der G\Desktop\game\Game_DB\GameDB\obj\Debug\net8.0-windows\aMirrorGameDB.UI.PlattformSelectionForm.resources
+C:\Users\der G\Desktop\game\Game_DB\GameDB\obj\Debug\net8.0-windows\aGameDB.UI.StoreSelectionForm.resources
+C:\Users\der G\Desktop\game\Game_DB\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.GenerateResource.cache
+C:\Users\der G\Desktop\game\Game_DB\GameDB\obj\Debug\net8.0-windows\aGameDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\Desktop\game\Game_DB\GameDB\obj\Debug\net8.0-windows\aGameDB.AssemblyInfoInputs.cache
+C:\Users\der G\Desktop\game\Game_DB\GameDB\obj\Debug\net8.0-windows\aGameDB.AssemblyInfo.cs
+C:\Users\der G\Desktop\game\Game_DB\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.CoreCompileInputs.cache
+C:\Users\der G\Desktop\game\Game_DB\GameDB\obj\Debug\net8.0-windows\aGameDB.csproj.Up2Date
+C:\Users\der G\Desktop\game\Game_DB\GameDB\obj\Debug\net8.0-windows\aGameDB.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\obj\Debug\net8.0-windows\refint\aGameDB.dll
+C:\Users\der G\Desktop\game\Game_DB\GameDB\obj\Debug\net8.0-windows\aGameDB.pdb
+C:\Users\der G\Desktop\game\Game_DB\GameDB\obj\Debug\net8.0-windows\aGameDB.genruntimeconfig.cache
+C:\Users\der G\Desktop\game\Game_DB\GameDB\obj\Debug\net8.0-windows\ref\aGameDB.dll

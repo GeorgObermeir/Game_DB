@@ -1,0 +1,105 @@
+C:\Users\der G\source\repos\GameDB\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\der G\source\repos\GameDB\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\der G\source\repos\GameDB\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\der G\source\repos\GameDB\DataAccesLayer\bin\Debug\net8.0\DomainModel.dll
+C:\Users\der G\source\repos\GameDB\DataAccesLayer\bin\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\source\repos\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\der G\source\repos\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\source\repos\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\der G\source\repos\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\der G\source\repos\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\der G\source\repos\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\der G\source\repos\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\der G\source\repos\GameDB\DataAccesLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\der G\source\repos\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\der G\source\repos\GameDB\DataAccesLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\der G\Desktop\GameDB\GameDB\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\der G\Desktop\GameDB\GameDB\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\der G\Desktop\GameDB\GameDB\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\der G\Desktop\GameDB\GameDB\DataAccesLayer\bin\Debug\net8.0\DomainModel.dll
+C:\Users\der G\Desktop\GameDB\GameDB\DataAccesLayer\bin\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\Desktop\GameDB\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\der G\Desktop\GameDB\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\Desktop\GameDB\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\der G\Desktop\GameDB\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\der G\Desktop\GameDB\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\der G\Desktop\GameDB\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\der G\Desktop\GameDB\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\der G\Desktop\GameDB\GameDB\DataAccesLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\der G\Desktop\GameDB\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\der G\Desktop\GameDB\GameDB\DataAccesLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\der G\Desktop\GameDB\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\der G\Desktop\GameDB\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\der G\Desktop\GameDB\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\der G\Desktop\GameDB\DataAccesLayer\bin\Debug\net8.0\DomainModel.dll
+C:\Users\der G\Desktop\GameDB\DataAccesLayer\bin\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\Desktop\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\der G\Desktop\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\Desktop\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\der G\Desktop\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\der G\Desktop\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\der G\Desktop\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\der G\Desktop\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\der G\Desktop\GameDB\DataAccesLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\der G\Desktop\GameDB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\der G\Desktop\GameDB\DataAccesLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DataAccesLayer\bin\Debug\net8.0\DomainModel.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DataAccesLayer\bin\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DataAccesLayer\bin\Debug\net8.0\DomainModel.dll
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DataAccesLayer\bin\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\der G\Desktop\game\Neuer Ordner\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\der G\Desktop\game\Neuer Ordner\DataAccesLayer\bin\Debug\net8.0\DomainModel.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\DataAccesLayer\bin\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\Desktop\game\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\der G\Desktop\game\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\Desktop\game\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\der G\Desktop\game\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\der G\Desktop\game\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\der G\Desktop\game\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\der G\Desktop\game\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\der G\Desktop\game\Neuer Ordner\DataAccesLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\der G\Desktop\game\Game_DB\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\der G\Desktop\game\Game_DB\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\der G\Desktop\game\Game_DB\DataAccesLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\der G\Desktop\game\Game_DB\DataAccesLayer\bin\Debug\net8.0\DomainModel.dll
+C:\Users\der G\Desktop\game\Game_DB\DataAccesLayer\bin\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\Desktop\game\Game_DB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\der G\Desktop\game\Game_DB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\Desktop\game\Game_DB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\der G\Desktop\game\Game_DB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\der G\Desktop\game\Game_DB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\der G\Desktop\game\Game_DB\DataAccesLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\der G\Desktop\game\Game_DB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\der G\Desktop\game\Game_DB\DataAccesLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\der G\Desktop\game\Game_DB\DataAccesLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\der G\Desktop\game\Game_DB\DataAccesLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

@@ -1,0 +1,77 @@
+C:\Users\der G\source\repos\GameDB\DomainModel\bin\Debug\net8.0\DomainModel.deps.json
+C:\Users\der G\source\repos\GameDB\DomainModel\bin\Debug\net8.0\DomainModel.dll
+C:\Users\der G\source\repos\GameDB\DomainModel\bin\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\source\repos\GameDB\DomainModel\obj\Debug\net8.0\DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\source\repos\GameDB\DomainModel\obj\Debug\net8.0\DomainModel.AssemblyInfoInputs.cache
+C:\Users\der G\source\repos\GameDB\DomainModel\obj\Debug\net8.0\DomainModel.AssemblyInfo.cs
+C:\Users\der G\source\repos\GameDB\DomainModel\obj\Debug\net8.0\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\der G\source\repos\GameDB\DomainModel\obj\Debug\net8.0\DomainModel.dll
+C:\Users\der G\source\repos\GameDB\DomainModel\obj\Debug\net8.0\refint\DomainModel.dll
+C:\Users\der G\source\repos\GameDB\DomainModel\obj\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\source\repos\GameDB\DomainModel\obj\Debug\net8.0\ref\DomainModel.dll
+C:\Users\der G\Desktop\GameDB\GameDB\DomainModel\bin\Debug\net8.0\DomainModel.deps.json
+C:\Users\der G\Desktop\GameDB\GameDB\DomainModel\bin\Debug\net8.0\DomainModel.dll
+C:\Users\der G\Desktop\GameDB\GameDB\DomainModel\bin\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\Desktop\GameDB\GameDB\DomainModel\obj\Debug\net8.0\DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\Desktop\GameDB\GameDB\DomainModel\obj\Debug\net8.0\DomainModel.AssemblyInfoInputs.cache
+C:\Users\der G\Desktop\GameDB\GameDB\DomainModel\obj\Debug\net8.0\DomainModel.AssemblyInfo.cs
+C:\Users\der G\Desktop\GameDB\GameDB\DomainModel\obj\Debug\net8.0\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\der G\Desktop\GameDB\GameDB\DomainModel\obj\Debug\net8.0\DomainModel.dll
+C:\Users\der G\Desktop\GameDB\GameDB\DomainModel\obj\Debug\net8.0\refint\DomainModel.dll
+C:\Users\der G\Desktop\GameDB\GameDB\DomainModel\obj\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\Desktop\GameDB\GameDB\DomainModel\obj\Debug\net8.0\ref\DomainModel.dll
+C:\Users\der G\Desktop\GameDB\DomainModel\bin\Debug\net8.0\DomainModel.deps.json
+C:\Users\der G\Desktop\GameDB\DomainModel\bin\Debug\net8.0\DomainModel.dll
+C:\Users\der G\Desktop\GameDB\DomainModel\bin\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\Desktop\GameDB\DomainModel\obj\Debug\net8.0\DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\Desktop\GameDB\DomainModel\obj\Debug\net8.0\DomainModel.AssemblyInfoInputs.cache
+C:\Users\der G\Desktop\GameDB\DomainModel\obj\Debug\net8.0\DomainModel.AssemblyInfo.cs
+C:\Users\der G\Desktop\GameDB\DomainModel\obj\Debug\net8.0\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\der G\Desktop\GameDB\DomainModel\obj\Debug\net8.0\DomainModel.dll
+C:\Users\der G\Desktop\GameDB\DomainModel\obj\Debug\net8.0\refint\DomainModel.dll
+C:\Users\der G\Desktop\GameDB\DomainModel\obj\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\Desktop\GameDB\DomainModel\obj\Debug\net8.0\ref\DomainModel.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DomainModel\bin\Debug\net8.0\DomainModel.deps.json
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DomainModel\bin\Debug\net8.0\DomainModel.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DomainModel\bin\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DomainModel\obj\Debug\net8.0\DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DomainModel\obj\Debug\net8.0\DomainModel.AssemblyInfoInputs.cache
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DomainModel\obj\Debug\net8.0\DomainModel.AssemblyInfo.cs
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DomainModel\obj\Debug\net8.0\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DomainModel\obj\Debug\net8.0\DomainModel.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DomainModel\obj\Debug\net8.0\refint\DomainModel.dll
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DomainModel\obj\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\Desktop\GameDB\Neuer Ordner\DomainModel\obj\Debug\net8.0\ref\DomainModel.dll
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DomainModel\bin\Debug\net8.0\DomainModel.deps.json
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DomainModel\bin\Debug\net8.0\DomainModel.dll
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DomainModel\bin\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DomainModel\obj\Debug\net8.0\DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DomainModel\obj\Debug\net8.0\DomainModel.AssemblyInfoInputs.cache
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DomainModel\obj\Debug\net8.0\DomainModel.AssemblyInfo.cs
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DomainModel\obj\Debug\net8.0\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DomainModel\obj\Debug\net8.0\DomainModel.dll
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DomainModel\obj\Debug\net8.0\refint\DomainModel.dll
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DomainModel\obj\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\Desktop\mirror project for test\Neuer Ordner\DomainModel\obj\Debug\net8.0\ref\DomainModel.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\DomainModel\bin\Debug\net8.0\DomainModel.deps.json
+C:\Users\der G\Desktop\game\Neuer Ordner\DomainModel\bin\Debug\net8.0\DomainModel.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\DomainModel\bin\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\Desktop\game\Neuer Ordner\DomainModel\obj\Debug\net8.0\DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\Desktop\game\Neuer Ordner\DomainModel\obj\Debug\net8.0\DomainModel.AssemblyInfoInputs.cache
+C:\Users\der G\Desktop\game\Neuer Ordner\DomainModel\obj\Debug\net8.0\DomainModel.AssemblyInfo.cs
+C:\Users\der G\Desktop\game\Neuer Ordner\DomainModel\obj\Debug\net8.0\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\der G\Desktop\game\Neuer Ordner\DomainModel\obj\Debug\net8.0\DomainModel.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\DomainModel\obj\Debug\net8.0\refint\DomainModel.dll
+C:\Users\der G\Desktop\game\Neuer Ordner\DomainModel\obj\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\Desktop\game\Neuer Ordner\DomainModel\obj\Debug\net8.0\ref\DomainModel.dll
+C:\Users\der G\Desktop\game\Game_DB\DomainModel\bin\Debug\net8.0\DomainModel.deps.json
+C:\Users\der G\Desktop\game\Game_DB\DomainModel\bin\Debug\net8.0\DomainModel.dll
+C:\Users\der G\Desktop\game\Game_DB\DomainModel\bin\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\Desktop\game\Game_DB\DomainModel\obj\Debug\net8.0\DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\der G\Desktop\game\Game_DB\DomainModel\obj\Debug\net8.0\DomainModel.AssemblyInfoInputs.cache
+C:\Users\der G\Desktop\game\Game_DB\DomainModel\obj\Debug\net8.0\DomainModel.AssemblyInfo.cs
+C:\Users\der G\Desktop\game\Game_DB\DomainModel\obj\Debug\net8.0\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\der G\Desktop\game\Game_DB\DomainModel\obj\Debug\net8.0\DomainModel.dll
+C:\Users\der G\Desktop\game\Game_DB\DomainModel\obj\Debug\net8.0\refint\DomainModel.dll
+C:\Users\der G\Desktop\game\Game_DB\DomainModel\obj\Debug\net8.0\DomainModel.pdb
+C:\Users\der G\Desktop\game\Game_DB\DomainModel\obj\Debug\net8.0\ref\DomainModel.dll
